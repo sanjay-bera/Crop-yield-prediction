@@ -16,7 +16,7 @@ function Hero() {
         </div>
         <aside className="hero-card">
           <img
-            src="https://images.unsplash.com/photo-1526362412876-9ce01d974389?q=80&w=1200&auto=format&fit=crop"
+            src="/hero-preview.png"
             alt="Field dashboard preview"
             width="600"
             height="400"

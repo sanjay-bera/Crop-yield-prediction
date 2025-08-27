@@ -8,22 +8,22 @@ function Testimonials() {
           <div className="testimonial">
             “We planned irrigation around alerts and saved two weeks of work.”
             <div className="who">
-              <img src="https://i.pravatar.cc/40?img=5" width="28" height="28" style={{borderRadius: '50%'}} alt="Ada avatar" loading="lazy" referrerPolicy="no-referrer" onError={(e)=>{e.currentTarget.src=ph('A');}} />
-              <span>Ada, maize farmer</span>
+              <img src="https://i.pravatar.cc/40?img=5" width="28" height="28" style={{borderRadius: '50%'}} alt="Aarav avatar" loading="lazy" referrerPolicy="no-referrer" onError={(e)=>{e.currentTarget.src=ph('A');}} />
+              <span>Arati, maize farmer from Maharashtra</span>
             </div>
           </div>
           <div className="testimonial">
             “Soil logs caught a nitrogen dip before it cost the season.”
             <div className="who">
               <img src="https://i.pravatar.cc/40?img=12" width="28" height="28" style={{borderRadius: '50%'}} alt="Ravi avatar" loading="lazy" referrerPolicy="no-referrer" onError={(e)=>{e.currentTarget.src=ph('R');}} />
-              <span>Ravi, co-op lead</span>
+              <span>Shubhajit, co-op lead from Karnataka</span>
             </div>
           </div>
           <div className="testimonial">
             “Forecasts matched our microclimate better than TV weather.”
             <div className="who">
-              <img src="https://i.pravatar.cc/40?img=20" width="28" height="28" style={{borderRadius: '50%'}} alt="Lina avatar" loading="lazy" referrerPolicy="no-referrer" onError={(e)=>{e.currentTarget.src=ph('L');}} />
-              <span>Lina, rice grower</span>
+              <img src="https://i.pravatar.cc/40?img=20" width="28" height="28" style={{borderRadius: '50%'}} alt="Isha avatar" loading="lazy" referrerPolicy="no-referrer" onError={(e)=>{e.currentTarget.src=ph('I');}} />
+              <span>Saraswati, rice grower from Andhra Pradesh</span>
             </div>
           </div>
         </div>
